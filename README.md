@@ -1,4 +1,4 @@
-project-generator-burndown
+generator-burndown
 ==========================
 
 Trabalho Gestão de Configuração
